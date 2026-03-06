@@ -1,0 +1,1055 @@
+{
+  "data": [
+    {
+      "CustomerId": 1,
+      "ContactName": "Ravi Joshi",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": false,
+      "JoiningDate": "2023-06-10T23:05:44.3271871+05:30"
+    },
+    {
+      "CustomerId": 2,
+      "ContactName": "Kavita Bansal",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "380001",
+      "Approved": false,
+      "JoiningDate": "2022-09-03T23:05:44.3275059+05:30"
+    },
+    {
+      "CustomerId": 3,
+      "ContactName": "Naveen Joshi",
+      "City": "Patna",
+      "State": "Bihar",
+      "Country": "India",
+      "ZipCode": "800001",
+      "Approved": false,
+      "JoiningDate": "2024-06-21T23:05:44.3275069+05:30"
+    },
+    {
+      "CustomerId": 4,
+      "ContactName": "Alok Iyer",
+      "City": "Bhubaneswar",
+      "State": "Odisha",
+      "Country": "India",
+      "ZipCode": "751001",
+      "Approved": false,
+      "JoiningDate": "2022-01-25T23:05:44.327507+05:30"
+    },
+    {
+      "CustomerId": 5,
+      "ContactName": "Sanjay Choudhary",
+      "City": "Patna",
+      "State": "Bihar",
+      "Country": "India",
+      "ZipCode": "800001",
+      "Approved": true,
+      "JoiningDate": "2024-10-17T23:05:44.3275072+05:30"
+    },
+    {
+      "CustomerId": 6,
+      "ContactName": "Ravi Sen",
+      "City": "Kolkata",
+      "State": "West Bengal",
+      "Country": "India",
+      "ZipCode": "700001",
+      "Approved": true,
+      "JoiningDate": "2022-10-09T23:05:44.3275138+05:30"
+    },
+    {
+      "CustomerId": 7,
+      "ContactName": "Alok Kapoor",
+      "City": "Lucknow",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "ZipCode": "226001",
+      "Approved": false,
+      "JoiningDate": "2022-07-05T23:05:44.327514+05:30"
+    },
+    {
+      "CustomerId": 8,
+      "ContactName": "Sneha Nair",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": false,
+      "JoiningDate": "2025-03-20T23:05:44.3275141+05:30"
+    },
+    {
+      "CustomerId": 9,
+      "ContactName": "Aakash Gupta",
+      "City": "Bangalore",
+      "State": "Karnataka",
+      "Country": "India",
+      "ZipCode": "560001",
+      "Approved": false,
+      "JoiningDate": "2021-06-19T23:05:44.3275142+05:30"
+    },
+    {
+      "CustomerId": 10,
+      "ContactName": "Manish Sharma",
+      "City": "Surat",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "395001",
+      "Approved": false,
+      "JoiningDate": "2026-02-24T23:05:44.3275144+05:30"
+    },
+    {
+      "CustomerId": 11,
+      "ContactName": "Rashmi Singh",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": false,
+      "JoiningDate": "2026-02-04T23:05:44.3275146+05:30"
+    },
+    {
+      "CustomerId": 12,
+      "ContactName": "Nitin Iyer",
+      "City": "Lucknow",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "ZipCode": "226001",
+      "Approved": false,
+      "JoiningDate": "2024-11-27T23:05:44.3275147+05:30"
+    },
+    {
+      "CustomerId": 13,
+      "ContactName": "Anjali Pillai",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": true,
+      "JoiningDate": "2026-02-19T23:05:44.3275148+05:30"
+    },
+    {
+      "CustomerId": 14,
+      "ContactName": "Alok Nair",
+      "City": "Bhopal",
+      "State": "Madhya Pradesh",
+      "Country": "India",
+      "ZipCode": "462001",
+      "Approved": false,
+      "JoiningDate": "2022-05-23T23:05:44.3275149+05:30"
+    },
+    {
+      "CustomerId": 15,
+      "ContactName": "Anjali Patel",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": true,
+      "JoiningDate": "2023-08-15T23:05:44.327515+05:30"
+    },
+    {
+      "CustomerId": 16,
+      "ContactName": "Vikas Sharma",
+      "City": "Jaipur",
+      "State": "Rajasthan",
+      "Country": "India",
+      "ZipCode": "302001",
+      "Approved": true,
+      "JoiningDate": "2025-04-24T23:05:44.3275151+05:30"
+    },
+    {
+      "CustomerId": 17,
+      "ContactName": "Naveen Singh",
+      "City": "Indore",
+      "State": "Madhya Pradesh",
+      "Country": "India",
+      "ZipCode": "452001",
+      "Approved": true,
+      "JoiningDate": "2022-06-08T23:05:44.3275152+05:30"
+    },
+    {
+      "CustomerId": 18,
+      "ContactName": "Sneha Mehta",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "Country": "India",
+      "ZipCode": "500001",
+      "Approved": false,
+      "JoiningDate": "2022-04-25T23:05:44.3275154+05:30"
+    },
+    {
+      "CustomerId": 19,
+      "ContactName": "Rashmi Jain",
+      "City": "Bhubaneswar",
+      "State": "Odisha",
+      "Country": "India",
+      "ZipCode": "751001",
+      "Approved": false,
+      "JoiningDate": "2023-11-26T23:05:44.3275155+05:30"
+    },
+    {
+      "CustomerId": 20,
+      "ContactName": "Divya Mishra",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "380001",
+      "Approved": true,
+      "JoiningDate": "2023-07-11T23:05:44.3275156+05:30"
+    },
+    {
+      "CustomerId": 21,
+      "ContactName": "Aakash Sen",
+      "City": "Jaipur",
+      "State": "Rajasthan",
+      "Country": "India",
+      "ZipCode": "302001",
+      "Approved": false,
+      "JoiningDate": "2021-03-05T23:05:44.3275162+05:30"
+    },
+    {
+      "CustomerId": 22,
+      "ContactName": "Deepak Kulkarni",
+      "City": "Dehradun",
+      "State": "Uttarakhand",
+      "Country": "India",
+      "ZipCode": "248001",
+      "Approved": true,
+      "JoiningDate": "2025-04-26T23:05:44.3275163+05:30"
+    },
+    {
+      "CustomerId": 23,
+      "ContactName": "Ankit Patel",
+      "City": "Jaipur",
+      "State": "Rajasthan",
+      "Country": "India",
+      "ZipCode": "302001",
+      "Approved": true,
+      "JoiningDate": "2023-10-05T23:05:44.3275165+05:30"
+    },
+    {
+      "CustomerId": 24,
+      "ContactName": "Siddharth Khanna",
+      "City": "Patna",
+      "State": "Bihar",
+      "Country": "India",
+      "ZipCode": "800001",
+      "Approved": true,
+      "JoiningDate": "2022-07-01T23:05:44.3275166+05:30"
+    },
+    {
+      "CustomerId": 25,
+      "ContactName": "Alok Mehta",
+      "City": "Nagpur",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "440001",
+      "Approved": true,
+      "JoiningDate": "2021-04-26T23:05:44.3275168+05:30"
+    },
+    {
+      "CustomerId": 26,
+      "ContactName": "Suresh Patel",
+      "City": "Dehradun",
+      "State": "Uttarakhand",
+      "Country": "India",
+      "ZipCode": "248001",
+      "Approved": true,
+      "JoiningDate": "2022-01-09T23:05:44.3275169+05:30"
+    },
+    {
+      "CustomerId": 27,
+      "ContactName": "Rohan Das",
+      "City": "Bhopal",
+      "State": "Madhya Pradesh",
+      "Country": "India",
+      "ZipCode": "462001",
+      "Approved": false,
+      "JoiningDate": "2025-02-02T23:05:44.327517+05:30"
+    },
+    {
+      "CustomerId": 28,
+      "ContactName": "Sneha Roy",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": false,
+      "JoiningDate": "2022-01-03T23:05:44.3275171+05:30"
+    },
+    {
+      "CustomerId": 29,
+      "ContactName": "Aakash Sen",
+      "City": "Ranchi",
+      "State": "Jharkhand",
+      "Country": "India",
+      "ZipCode": "834001",
+      "Approved": true,
+      "JoiningDate": "2024-05-26T23:05:44.3275172+05:30"
+    },
+    {
+      "CustomerId": 30,
+      "ContactName": "Arjun Rao",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": true,
+      "JoiningDate": "2021-11-13T23:05:44.3275177+05:30"
+    },
+    {
+      "CustomerId": 31,
+      "ContactName": "Pooja Yadav",
+      "City": "Dehradun",
+      "State": "Uttarakhand",
+      "Country": "India",
+      "ZipCode": "248001",
+      "Approved": true,
+      "JoiningDate": "2024-08-03T23:05:44.3275188+05:30"
+    },
+    {
+      "CustomerId": 32,
+      "ContactName": "Arjun Patel",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": true,
+      "JoiningDate": "2024-09-10T23:05:44.3275189+05:30"
+    },
+    {
+      "CustomerId": 33,
+      "ContactName": "Vikas Joshi",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": false,
+      "JoiningDate": "2023-08-10T23:05:44.327519+05:30"
+    },
+    {
+      "CustomerId": 34,
+      "ContactName": "Priya Deshpande",
+      "City": "Bangalore",
+      "State": "Karnataka",
+      "Country": "India",
+      "ZipCode": "560001",
+      "Approved": false,
+      "JoiningDate": "2023-08-02T23:05:44.3275192+05:30"
+    },
+    {
+      "CustomerId": 35,
+      "ContactName": "Ankit Sharma",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": false,
+      "JoiningDate": "2025-06-04T23:05:44.3275193+05:30"
+    },
+    {
+      "CustomerId": 36,
+      "ContactName": "Manish Iyer",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": false,
+      "JoiningDate": "2023-02-22T23:05:44.3275194+05:30"
+    },
+    {
+      "CustomerId": 37,
+      "ContactName": "Sunita Pillai",
+      "City": "Ranchi",
+      "State": "Jharkhand",
+      "Country": "India",
+      "ZipCode": "834001",
+      "Approved": false,
+      "JoiningDate": "2025-12-25T23:05:44.3275195+05:30"
+    },
+    {
+      "CustomerId": 38,
+      "ContactName": "Amit Bansal",
+      "City": "Bhopal",
+      "State": "Madhya Pradesh",
+      "Country": "India",
+      "ZipCode": "462001",
+      "Approved": true,
+      "JoiningDate": "2021-03-29T23:05:44.3275196+05:30"
+    },
+    {
+      "CustomerId": 39,
+      "ContactName": "Kavita Rao",
+      "City": "Dehradun",
+      "State": "Uttarakhand",
+      "Country": "India",
+      "ZipCode": "248001",
+      "Approved": true,
+      "JoiningDate": "2023-04-11T23:05:44.3275197+05:30"
+    },
+    {
+      "CustomerId": 40,
+      "ContactName": "Kiran Das",
+      "City": "Kanpur",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "ZipCode": "208001",
+      "Approved": false,
+      "JoiningDate": "2023-11-05T23:05:44.3275198+05:30"
+    },
+    {
+      "CustomerId": 41,
+      "ContactName": "Divya Rao",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": true,
+      "JoiningDate": "2023-06-05T23:05:44.3275199+05:30"
+    },
+    {
+      "CustomerId": 42,
+      "ContactName": "Sunita Reddy",
+      "City": "Chennai",
+      "State": "Tamil Nadu",
+      "Country": "India",
+      "ZipCode": "600001",
+      "Approved": true,
+      "JoiningDate": "2025-01-08T23:05:44.32752+05:30"
+    },
+    {
+      "CustomerId": 43,
+      "ContactName": "Sneha Jain",
+      "City": "Jaipur",
+      "State": "Rajasthan",
+      "Country": "India",
+      "ZipCode": "302001",
+      "Approved": true,
+      "JoiningDate": "2024-05-12T23:05:44.3275201+05:30"
+    },
+    {
+      "CustomerId": 44,
+      "ContactName": "Siddharth Naidu",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": true,
+      "JoiningDate": "2025-10-12T23:05:44.3275203+05:30"
+    },
+    {
+      "CustomerId": 45,
+      "ContactName": "Mehul Iyer",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "380001",
+      "Approved": false,
+      "JoiningDate": "2023-12-01T23:05:44.3275204+05:30"
+    },
+    {
+      "CustomerId": 46,
+      "ContactName": "Alok Choudhary",
+      "City": "Indore",
+      "State": "Madhya Pradesh",
+      "Country": "India",
+      "ZipCode": "452001",
+      "Approved": false,
+      "JoiningDate": "2022-11-28T23:05:44.3275205+05:30"
+    },
+    {
+      "CustomerId": 47,
+      "ContactName": "Sunita Iyer",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "380001",
+      "Approved": true,
+      "JoiningDate": "2022-02-09T23:05:44.3275206+05:30"
+    },
+    {
+      "CustomerId": 48,
+      "ContactName": "Vikas Malhotra",
+      "City": "Nagpur",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "440001",
+      "Approved": true,
+      "JoiningDate": "2023-07-31T23:05:44.3275207+05:30"
+    },
+    {
+      "CustomerId": 49,
+      "ContactName": "Ravi Kulkarni",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": true,
+      "JoiningDate": "2023-06-29T23:05:44.3275208+05:30"
+    },
+    {
+      "CustomerId": 50,
+      "ContactName": "Nitin Khanna",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": false,
+      "JoiningDate": "2025-10-06T23:05:44.3275209+05:30"
+    },
+    {
+      "CustomerId": 51,
+      "ContactName": "Neha Pillai",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "Country": "India",
+      "ZipCode": "500001",
+      "Approved": true,
+      "JoiningDate": "2023-06-03T23:05:44.327521+05:30"
+    },
+    {
+      "CustomerId": 52,
+      "ContactName": "Divya Reddy",
+      "City": "Ranchi",
+      "State": "Jharkhand",
+      "Country": "India",
+      "ZipCode": "834001",
+      "Approved": true,
+      "JoiningDate": "2025-10-03T23:05:44.3275211+05:30"
+    },
+    {
+      "CustomerId": 53,
+      "ContactName": "Kiran Shah",
+      "City": "Kanpur",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "ZipCode": "208001",
+      "Approved": false,
+      "JoiningDate": "2025-11-05T23:05:44.3275212+05:30"
+    },
+    {
+      "CustomerId": 54,
+      "ContactName": "Pankaj Agarwal",
+      "City": "Dehradun",
+      "State": "Uttarakhand",
+      "Country": "India",
+      "ZipCode": "248001",
+      "Approved": false,
+      "JoiningDate": "2025-10-26T23:05:44.3275213+05:30"
+    },
+    {
+      "CustomerId": 55,
+      "ContactName": "Manish Verma",
+      "City": "Delhi",
+      "State": "Delhi",
+      "Country": "India",
+      "ZipCode": "110001",
+      "Approved": true,
+      "JoiningDate": "2022-08-08T23:05:44.3275215+05:30"
+    },
+    {
+      "CustomerId": 56,
+      "ContactName": "Pooja Yadav",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": true,
+      "JoiningDate": "2025-07-09T23:05:44.3275216+05:30"
+    },
+    {
+      "CustomerId": 57,
+      "ContactName": "Pooja Kulkarni",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "380001",
+      "Approved": true,
+      "JoiningDate": "2022-07-02T23:05:44.3275217+05:30"
+    },
+    {
+      "CustomerId": 58,
+      "ContactName": "Rahul Mehta",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": false,
+      "JoiningDate": "2024-07-29T23:05:44.3275218+05:30"
+    },
+    {
+      "CustomerId": 59,
+      "ContactName": "Amit Joshi",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": false,
+      "JoiningDate": "2025-11-06T23:05:44.3275219+05:30"
+    },
+    {
+      "CustomerId": 60,
+      "ContactName": "Naveen Mishra",
+      "City": "Kolkata",
+      "State": "West Bengal",
+      "Country": "India",
+      "ZipCode": "700001",
+      "Approved": false,
+      "JoiningDate": "2024-10-02T23:05:44.3275221+05:30"
+    },
+    {
+      "CustomerId": 61,
+      "ContactName": "Sanjay Verma",
+      "City": "Ranchi",
+      "State": "Jharkhand",
+      "Country": "India",
+      "ZipCode": "834001",
+      "Approved": true,
+      "JoiningDate": "2025-03-10T23:05:44.3275222+05:30"
+    },
+    {
+      "CustomerId": 62,
+      "ContactName": "Rashmi Das",
+      "City": "Delhi",
+      "State": "Delhi",
+      "Country": "India",
+      "ZipCode": "110001",
+      "Approved": true,
+      "JoiningDate": "2024-03-29T23:05:44.3275223+05:30"
+    },
+    {
+      "CustomerId": 63,
+      "ContactName": "Sneha Agarwal",
+      "City": "Pune",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "411001",
+      "Approved": true,
+      "JoiningDate": "2024-08-13T23:05:44.3275224+05:30"
+    },
+    {
+      "CustomerId": 64,
+      "ContactName": "Naveen Bansal",
+      "City": "Patna",
+      "State": "Bihar",
+      "Country": "India",
+      "ZipCode": "800001",
+      "Approved": false,
+      "JoiningDate": "2023-01-17T23:05:44.3275225+05:30"
+    },
+    {
+      "CustomerId": 65,
+      "ContactName": "Ritu Mehta",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "380001",
+      "Approved": true,
+      "JoiningDate": "2022-07-19T23:05:44.3275226+05:30"
+    },
+    {
+      "CustomerId": 66,
+      "ContactName": "Rohan Mehta",
+      "City": "Kanpur",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "ZipCode": "208001",
+      "Approved": true,
+      "JoiningDate": "2025-08-12T23:05:44.3275254+05:30"
+    },
+    {
+      "CustomerId": 67,
+      "ContactName": "Nitin Deshpande",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": false,
+      "JoiningDate": "2024-06-29T23:05:44.3275256+05:30"
+    },
+    {
+      "CustomerId": 68,
+      "ContactName": "Rohan Sen",
+      "City": "Ranchi",
+      "State": "Jharkhand",
+      "Country": "India",
+      "ZipCode": "834001",
+      "Approved": false,
+      "JoiningDate": "2022-05-02T23:05:44.3275257+05:30"
+    },
+    {
+      "CustomerId": 69,
+      "ContactName": "Sanjay Soni",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "380001",
+      "Approved": false,
+      "JoiningDate": "2023-06-16T23:05:44.3275258+05:30"
+    },
+    {
+      "CustomerId": 70,
+      "ContactName": "Priya Khanna",
+      "City": "Kolkata",
+      "State": "West Bengal",
+      "Country": "India",
+      "ZipCode": "700001",
+      "Approved": true,
+      "JoiningDate": "2025-09-20T23:05:44.3275259+05:30"
+    },
+    {
+      "CustomerId": 71,
+      "ContactName": "Rashmi Khanna",
+      "City": "Delhi",
+      "State": "Delhi",
+      "Country": "India",
+      "ZipCode": "110001",
+      "Approved": true,
+      "JoiningDate": "2022-10-20T23:05:44.327526+05:30"
+    },
+    {
+      "CustomerId": 72,
+      "ContactName": "Ritu Nair",
+      "City": "Lucknow",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "ZipCode": "226001",
+      "Approved": true,
+      "JoiningDate": "2026-02-18T23:05:44.3275261+05:30"
+    },
+    {
+      "CustomerId": 73,
+      "ContactName": "Ankit Patel",
+      "City": "Nagpur",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "440001",
+      "Approved": true,
+      "JoiningDate": "2021-07-24T23:05:44.3275262+05:30"
+    },
+    {
+      "CustomerId": 74,
+      "ContactName": "Rahul Gupta",
+      "City": "Indore",
+      "State": "Madhya Pradesh",
+      "Country": "India",
+      "ZipCode": "452001",
+      "Approved": true,
+      "JoiningDate": "2022-03-28T23:05:44.3275264+05:30"
+    },
+    {
+      "CustomerId": 75,
+      "ContactName": "Rahul Agarwal",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "380001",
+      "Approved": true,
+      "JoiningDate": "2023-01-11T23:05:44.3275265+05:30"
+    },
+    {
+      "CustomerId": 76,
+      "ContactName": "Sanjay Yadav",
+      "City": "Bangalore",
+      "State": "Karnataka",
+      "Country": "India",
+      "ZipCode": "560001",
+      "Approved": false,
+      "JoiningDate": "2022-06-06T23:05:44.3275266+05:30"
+    },
+    {
+      "CustomerId": 77,
+      "ContactName": "Rohan Iyer",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": true,
+      "JoiningDate": "2023-03-03T23:05:44.3275267+05:30"
+    },
+    {
+      "CustomerId": 78,
+      "ContactName": "Kavita Jain",
+      "City": "Kolkata",
+      "State": "West Bengal",
+      "Country": "India",
+      "ZipCode": "700001",
+      "Approved": false,
+      "JoiningDate": "2023-07-20T23:05:44.3275268+05:30"
+    },
+    {
+      "CustomerId": 79,
+      "ContactName": "Anjali Deshpande",
+      "City": "Lucknow",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "ZipCode": "226001",
+      "Approved": true,
+      "JoiningDate": "2022-06-26T23:05:44.3275269+05:30"
+    },
+    {
+      "CustomerId": 80,
+      "ContactName": "Ritu Shah",
+      "City": "Jaipur",
+      "State": "Rajasthan",
+      "Country": "India",
+      "ZipCode": "302001",
+      "Approved": false,
+      "JoiningDate": "2024-07-23T23:05:44.327527+05:30"
+    },
+    {
+      "CustomerId": 81,
+      "ContactName": "Manish Mishra",
+      "City": "Bangalore",
+      "State": "Karnataka",
+      "Country": "India",
+      "ZipCode": "560001",
+      "Approved": false,
+      "JoiningDate": "2022-10-31T23:05:44.3275271+05:30"
+    },
+    {
+      "CustomerId": 82,
+      "ContactName": "Kiran Bansal",
+      "City": "Chennai",
+      "State": "Tamil Nadu",
+      "Country": "India",
+      "ZipCode": "600001",
+      "Approved": true,
+      "JoiningDate": "2025-04-24T23:05:44.3275272+05:30"
+    },
+    {
+      "CustomerId": 83,
+      "ContactName": "Neha Yadav",
+      "City": "Bhopal",
+      "State": "Madhya Pradesh",
+      "Country": "India",
+      "ZipCode": "462001",
+      "Approved": true,
+      "JoiningDate": "2021-06-01T23:05:44.3275273+05:30"
+    },
+    {
+      "CustomerId": 84,
+      "ContactName": "Alok Sharma",
+      "City": "Dehradun",
+      "State": "Uttarakhand",
+      "Country": "India",
+      "ZipCode": "248001",
+      "Approved": false,
+      "JoiningDate": "2023-08-20T23:05:44.3275275+05:30"
+    },
+    {
+      "CustomerId": 85,
+      "ContactName": "Divya Nair",
+      "City": "Kolkata",
+      "State": "West Bengal",
+      "Country": "India",
+      "ZipCode": "700001",
+      "Approved": true,
+      "JoiningDate": "2022-12-26T23:05:44.3275276+05:30"
+    },
+    {
+      "CustomerId": 86,
+      "ContactName": "Pankaj Naidu",
+      "City": "Kolkata",
+      "State": "West Bengal",
+      "Country": "India",
+      "ZipCode": "700001",
+      "Approved": false,
+      "JoiningDate": "2023-05-18T23:05:44.3275277+05:30"
+    },
+    {
+      "CustomerId": 87,
+      "ContactName": "Amit Khanna",
+      "City": "Surat",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "395001",
+      "Approved": true,
+      "JoiningDate": "2021-06-18T23:05:44.3275278+05:30"
+    },
+    {
+      "CustomerId": 88,
+      "ContactName": "Ravi Soni",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": false,
+      "JoiningDate": "2021-11-23T23:05:44.3275279+05:30"
+    },
+    {
+      "CustomerId": 89,
+      "ContactName": "Siddharth Sen",
+      "City": "Ranchi",
+      "State": "Jharkhand",
+      "Country": "India",
+      "ZipCode": "834001",
+      "Approved": false,
+      "JoiningDate": "2024-07-07T23:05:44.327528+05:30"
+    },
+    {
+      "CustomerId": 90,
+      "ContactName": "Sanjay Naidu",
+      "City": "Chandigarh",
+      "State": "Chandigarh",
+      "Country": "India",
+      "ZipCode": "160001",
+      "Approved": false,
+      "JoiningDate": "2022-05-01T23:05:44.3275281+05:30"
+    },
+    {
+      "CustomerId": 91,
+      "ContactName": "Neha Verma",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "Country": "India",
+      "ZipCode": "500001",
+      "Approved": true,
+      "JoiningDate": "2021-04-16T23:05:44.3275282+05:30"
+    },
+    {
+      "CustomerId": 92,
+      "ContactName": "Ravi Mishra",
+      "City": "Nagpur",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "440001",
+      "Approved": true,
+      "JoiningDate": "2021-04-15T23:05:44.3275284+05:30"
+    },
+    {
+      "CustomerId": 93,
+      "ContactName": "Rohan Singh",
+      "City": "Bhubaneswar",
+      "State": "Odisha",
+      "Country": "India",
+      "ZipCode": "751001",
+      "Approved": false,
+      "JoiningDate": "2023-10-11T23:05:44.3275285+05:30"
+    },
+    {
+      "CustomerId": 94,
+      "ContactName": "Anjali Deshpande",
+      "City": "Jaipur",
+      "State": "Rajasthan",
+      "Country": "India",
+      "ZipCode": "302001",
+      "Approved": false,
+      "JoiningDate": "2025-10-20T23:05:44.3275286+05:30"
+    },
+    {
+      "CustomerId": 95,
+      "ContactName": "Neha Pillai",
+      "City": "Surat",
+      "State": "Gujarat",
+      "Country": "India",
+      "ZipCode": "395001",
+      "Approved": true,
+      "JoiningDate": "2021-06-11T23:05:44.3275287+05:30"
+    },
+    {
+      "CustomerId": 96,
+      "ContactName": "Rahul Iyer",
+      "City": "Indore",
+      "State": "Madhya Pradesh",
+      "Country": "India",
+      "ZipCode": "452001",
+      "Approved": true,
+      "JoiningDate": "2024-01-24T23:05:44.3275288+05:30"
+    },
+    {
+      "CustomerId": 97,
+      "ContactName": "Deepak Shah",
+      "City": "Ranchi",
+      "State": "Jharkhand",
+      "Country": "India",
+      "ZipCode": "834001",
+      "Approved": false,
+      "JoiningDate": "2022-07-10T23:05:44.3275289+05:30"
+    },
+    {
+      "CustomerId": 98,
+      "ContactName": "Arjun Kulkarni",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "Country": "India",
+      "ZipCode": "500001",
+      "Approved": true,
+      "JoiningDate": "2023-03-25T23:05:44.327529+05:30"
+    },
+    {
+      "CustomerId": 99,
+      "ContactName": "Mehul Malhotra",
+      "City": "Lucknow",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "ZipCode": "226001",
+      "Approved": false,
+      "JoiningDate": "2021-10-18T23:05:44.3275291+05:30"
+    },
+    {
+      "CustomerId": 100,
+      "ContactName": "Kiran Nair",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "ZipCode": "400001",
+      "Approved": true,
+      "JoiningDate": "2022-02-11T23:05:44.3275292+05:30"
+    }
+  ],
+  "columns": [
+    {
+      "key": "CustomerId",
+      "label": "CustomerId",
+      "format": null,
+      "type": "Int32"
+    },
+    {
+      "key": "ContactName",
+      "label": "Contact Name",
+      "format": null,
+      "type": "String"
+    },
+    {
+      "key": "City",
+      "label": "Living City",
+      "format": null,
+      "type": "String"
+    },
+    {
+      "key": "State",
+      "label": "Living State",
+      "format": null,
+      "type": "String"
+    },
+    {
+      "key": "Country",
+      "label": "Country",
+      "format": null,
+      "type": "String"
+    },
+    {
+      "key": "ZipCode",
+      "label": "Zipcode",
+      "format": null,
+      "type": "String"
+    },
+    {
+      "key": "Approved",
+      "label": "Approved",
+      "format": null,
+      "type": "Boolean"
+    },
+    {
+      "key": "JoiningDate",
+      "label": "Joining Date",
+      "format": null,
+      "type": "DateTime"
+    }
+  ],
+  "totalCount": 200
+}
