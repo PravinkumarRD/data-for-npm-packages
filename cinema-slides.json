@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Blade Runner 2049",
+    "director": "Denis Villeneuve",
+    "genre": "Sci-Fi Noir",
+    "year": "2017",
+    "synopsis": "A new blade runner unearths a long-buried secret that has the potential to plunge what's left of society into chaos.",
+    "tagline": "The world doesn't end with the fall of an empire. It ends slowly.",
+    "rating": 5,
+    "accent": "#e8a84e",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Portrait of a Lady on Fire",
+    "director": "Céline Sciamma",
+    "genre": "Period Romance",
+    "year": "2019",
+    "synopsis": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is commissioned to do a wedding portrait.",
+    "tagline": "Do all lovers feel they're inventing something?",
+    "rating": 5,
+    "accent": "#e85c3a",
+    "imageUrl": "https://images.unsplash.com/photo-1578632749014-ca77f29b9f1d?w=1600&q=80"
+  },
+  {
+    "id": 3,
+    "title": "The Grand Budapest Hotel",
+    "director": "Wes Anderson",
+    "genre": "Comedy Mystery",
+    "year": "2014",
+    "synopsis": "A writer encounters the owner of an ageing European hotel between the wars, who tells him of his early years serving as a lobby boy.",
+    "tagline": "There are still faint glimmers of civilisation left in this barbaric slaughterhouse.",
+    "rating": 4,
+    "accent": "#d4488a",
+    "imageUrl": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Annihilation",
+    "director": "Alex Garland",
+    "genre": "Sci-Fi Thriller",
+    "year": "2018",
+    "synopsis": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+    "tagline": "It's not destroying. It's creating something new.",
+    "rating": 5,
+    "accent": "#4ec9a0",
+    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1600&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "genre": "Dark Comedy",
+    "year": "2019",
+    "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "tagline": "Act like you own the place.",
+    "rating": 5,
+    "accent": "#6a9fd8",
+    "imageUrl": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1600&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Mad Max: Fury Road",
+    "director": "George Miller",
+    "genre": "Action Epic",
+    "year": "2015",
+    "synopsis": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with a group of female prisoners.",
+    "tagline": "What a lovely day.",
+    "rating": 5,
+    "accent": "#d4842a",
+    "imageUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=1600&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Mulholland Drive",
+    "director": "David Lynch",
+    "genre": "Neo-Noir Mystery",
+    "year": "2001",
+    "synopsis": "After a car wreck on the winding Mulholland Drive leaves a woman amnesiac, she and an aspiring actress piece together her identity.",
+    "tagline": "A love story in the city of dreams.",
+    "rating": 4,
+    "accent": "#9c6fd4",
+    "imageUrl": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1600&q=80"
+  },
+  {
+    "id": 8,
+    "title": "In the Mood for Love",
+    "director": "Wong Kar-wai",
+    "genre": "Romantic Drama",
+    "year": "2000",
+    "synopsis": "Two neighbours form a bond after both suspect their spouses of having an affair. Sensual and exquisitely restrained.",
+    "tagline": "Feelings can creep up just like that.",
+    "rating": 5,
+    "accent": "#c94040",
+    "imageUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1600&q=80"
+  }
+]
