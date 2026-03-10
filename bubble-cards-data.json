@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Abyssal Glow",
+    "subtitle": "Deep sea bioluminescence",
+    "tag": "OCEAN",
+    "body": "In the crushing dark below 1000m, life invents its own light. Anglerfish, jellyfish, ostracods — each a cold lantern in the void.",
+    "accent": "#00e5ff",
+    "accentB": "#0088cc"
+  },
+  {
+    "id": 2,
+    "title": "Coral Mind",
+    "subtitle": "Reef intelligence",
+    "tag": "BIO",
+    "body": "A coral reef is not a collection of animals — it is a single distributed mind, sensing temperature and light across kilometres.",
+    "accent": "#ff6b6b",
+    "accentB": "#cc3344"
+  },
+  {
+    "id": 3,
+    "title": "Pressure Wave",
+    "subtitle": "Submarine acoustics",
+    "tag": "PHYSICS",
+    "body": "Sound travels five times faster in water than air. Whales can communicate across entire ocean basins using infrasound below human hearing.",
+    "accent": "#7c3aed",
+    "accentB": "#4c1d95"
+  },
+  {
+    "id": 4,
+    "title": "Thermal Vent",
+    "subtitle": "Hydrothermal chemistry",
+    "tag": "GEO",
+    "body": "At 400°C, superheated water blackened with minerals erupts from the seafloor, sustaining life that has never seen sunlight.",
+    "accent": "#f59e0b",
+    "accentB": "#b45309"
+  },
+  {
+    "id": 5,
+    "title": "Salinity Lens",
+    "subtitle": "Ocean stratification",
+    "tag": "FLOW",
+    "body": "Fresh and salt water do not mix instantly. A halocline is a lens of density — ships navigate it, submarines hide within it.",
+    "accent": "#10b981",
+    "accentB": "#065f46"
+  },
+  {
+    "id": 6,
+    "title": "Midnight Zone",
+    "subtitle": "Mesopelagic biology",
+    "tag": "DEPTH",
+    "body": "Between 200m and 1000m, the twilight zone teems with the largest daily migration on Earth — billions of creatures rising at dusk, sinking at dawn.",
+    "accent": "#3b82f6",
+    "accentB": "#1e3a8a"
+  },
+  {
+    "id": 7,
+    "title": "Kelp Cathedral",
+    "subtitle": "Forest ecology",
+    "tag": "FLORA",
+    "body": "Giant kelp grows 30cm per day in nutrient-rich cold water, building underwater forests that shelter thousands of species from currents and predators.",
+    "accent": "#84cc16",
+    "accentB": "#3f6212"
+  }
+]
